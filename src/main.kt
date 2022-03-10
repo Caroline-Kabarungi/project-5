@@ -1,14 +1,20 @@
 fun main(){
-var text= "Akirachix"
+var text= "codehive"
 
-    var campus =  text[0].toString()+text[2] + text[3]
+    var campus =  text[4].toString()+text[5] + text[6] + text[7]
     println(campus)
 var c =statement("carotibz",45)
     println(c)
     var k =suzie()
     println(k)
-    special("caroline")
-    special("Isabellah")
+
+    fun statement ("my name is $name and iam $ years old" )
+         println
+
+    }
+
+
+
 
 
 }
@@ -21,11 +27,7 @@ fun suzie() :Int{
     var l =suzie.length
     return l
 }
-fun special(name:String){
-    if(name=="caroline")
-        println("that is me")
-    else
-        println("that is not me")
-}
+
+
 
 
